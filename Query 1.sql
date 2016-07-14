@@ -9,3 +9,4 @@ INSERT INTO people (name, has_pet, pet_name, pet_age) VALUES ('matt', true, 'pep
 INSERT INTO people (name, has_pet) VALUES ('frank', true);
 
 INSERT INTO people (name, has_pet, pet_name, pet_age) VALUES ('whitley', false, 'lucky', 14);
+
